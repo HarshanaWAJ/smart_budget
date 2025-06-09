@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70400035444",
+    "project_id": "smart-budget-98601",
+    "storage_bucket": "smart-budget-98601.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70400035444:android:35e737297d09e1bf75df21",
+        "android_client_info": {
+          "package_name": "com.example.smart_budget"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA51VTYZ0cunzXkFL416FFipMtmI3t5jwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
